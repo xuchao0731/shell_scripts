@@ -1,4 +1,3 @@
-#!/bin/bash
 RED_COLOR='\E[1;31m'
 GREEN_COLOR='\E[1;32m'
 YELOW_COLOR='\E[1;33m'
